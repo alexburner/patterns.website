@@ -10,7 +10,6 @@ export interface SectionData {
 
 export interface ItemData {
   title: string
-  description: string
   thumbs: ThumbData[]
 }
 
@@ -27,49 +26,76 @@ export const site: SiteData = {
       title: 'sites',
       items: [
         {
-          title: 'daylight',
-          description: 'Natural clock visualizing daylight hours',
-          thumbs: [],
+          title: 'dimensions',
+          thumbs: [
+            {
+              title: 'dimensions',
+              img: '/img/dimensions',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
         },
       ],
     },
     {
-      title: 'interactive experiements',
+      title: 'interactive experiments',
       items: [
         {
-          title: 'daylight',
-          description: 'Natural clock visualizing daylight hours',
-          thumbs: [],
+          title: 'dimensions',
+          thumbs: [
+            {
+              title: 'dimensions',
+              img: '/img/dimensions',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
         },
       ],
     },
     {
-      title: 'static experiements (random chance)',
+      title: 'static experiments (random)',
       items: [
         {
-          title: 'daylight',
-          description: 'Natural clock visualizing daylight hours',
-          thumbs: [],
+          title: 'dimensions',
+          thumbs: [
+            {
+              title: 'dimensions',
+              img: '/img/dimensions',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
         },
       ],
     },
     {
-      title: 'static experiements (deterministic)',
+      title: 'static experiments (deterministic)',
       items: [
         {
-          title: 'daylight',
-          description: 'Natural clock visualizing daylight hours',
-          thumbs: [],
+          title: 'dimensions',
+          thumbs: [
+            {
+              title: 'dimensions',
+              img: '/img/dimensions',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
         },
       ],
     },
     {
       title: 'printables',
-      items: [],
-    },
-    {
-      title: 'theoreticals',
-      items: [],
+      items: [
+        {
+          title: 'dimensions',
+          thumbs: [
+            {
+              title: 'dimensions',
+              img: '/img/dimensions',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
+        },
+      ],
     },
   ],
 }

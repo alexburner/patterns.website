@@ -1,0 +1,44 @@
+patterns
+
+sites
+- daylight
+- spectrogram
+- quote garden
+- wikitree
+
+interactive
+- swatches
+- dimensions
+- gravity
+- euclid
+- parallax
+- flocking
+- trails
+- connect the dots
+- moire
+
+static random
+- flow field
+- topography
+- 2d diffusion (bound, wild)
+- 3d diffusion (bound, wild)
+- mirror particles
+- nbody trails
+- spheres jumble
+
+static deterministic
+- polyhedra spread
+- polygons continuous
+- polygons nested
+- polygons spread
+- holonstar
+- hopf lines
+- genesis
+- flower doubled (same, ratio)
+- flower sequence
+
+printable
+- polygon fields
+- 24 toward infinity
+- genesis
+- flower (single, doubled same, doubled ratio)

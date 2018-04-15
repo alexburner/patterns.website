@@ -10,7 +10,7 @@ interface Props {
 const Item = ({ item }: Props): JSX.Element => (
   <div className="item">
     {item.thumbs.map(thumb => <Thumb key={thumb.title} thumb={thumb} />)}
-    <h3>{item.title}</h3>
+    <p>{item.title}</p>
   </div>
 )
 
