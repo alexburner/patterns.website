@@ -9,7 +9,9 @@ interface Props {
 
 const Item = ({ item }: Props): JSX.Element => (
   <div className="item">
-    {item.thumbs.map(thumb => <Thumb key={thumb.title} thumb={thumb} />)}
+    {item.thumbs.map(thumb => (
+      <Thumb key={item.title + thumb.title} title={item.title} thumb={thumb} />
+    ))}
     <p>{item.title}</p>
   </div>
 )
