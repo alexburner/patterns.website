@@ -4,10 +4,10 @@ const HtmlWebpackPlugin = require('html-webpack-plugin')
 const HtmlWebpackIncludeAssetsPlugin = require('html-webpack-include-assets-plugin')
 module.exports = {
   devtool: 'cheap-module-source-map',
-  entry: './src/index.tsx',
+  entry: path.resolve(__dirname, 'src', 'index'),
   output: {
-    filename: 'bundle.[hash].js',
-    path: path.resolve(__dirname, 'docs'),
+    filename: 'bundle.js',
+    path: path.resolve(__dirname),
   },
   resolve: {
     extensions: ['.ts', '.tsx', '.js', '.json'],

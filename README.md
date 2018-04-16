@@ -18,6 +18,7 @@ Clean out built folder & run webpack build with production optimizations
 ```cmd
 npm run build
 ```
+Note! built folder === project root, because of weird things like experiments submodule
 
 ## style
 Auto-format code with `prettier` and `tslint --fix`

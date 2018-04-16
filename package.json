@@ -11,7 +11,7 @@
   },
   "scripts": {
     "watch": "webpack-dev-server",
-    "build": "rm -rf docs && webpack -p",
+    "build": "webpack -p",
     "clean": "rm -rf .awcache node_modules",
     "prettier": "prettier --write 'src/**/*.+(ts|tsx|js|json)'",
     "tslint": "tslint --fix -p tsconfig.json --exclude 'node_modules/*'",
