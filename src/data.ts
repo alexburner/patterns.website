@@ -269,6 +269,21 @@ export const site: SiteData = {
           ],
         },
         {
+          title: 'diffusion tables',
+          thumbs: [
+            {
+              title: 'wild',
+              img: 'https://i.imgur.com/BQs73xNt.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+            {
+              title: 'bound',
+              img: 'https://i.imgur.com/BQs73xNt.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
+        },
+        {
           title: 'mirror particles',
           thumbs: [
             {
