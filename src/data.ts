@@ -14,7 +14,7 @@ export interface ItemData {
 }
 
 export interface ThumbData {
-  title: string
+  title?: string
   img: string
   href: string
 }
@@ -29,9 +29,8 @@ export const site: SiteData = {
           title: 'swatches',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'https://alexburner.github.io/swatches/',
+              img: 'https://i.imgur.com/XbINmW2.png',
             },
           ],
         },
@@ -39,9 +38,8 @@ export const site: SiteData = {
           title: 'daylight',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'https://daylight.website/',
+              img: 'https://i.imgur.com/Trh8ulI.png',
             },
           ],
         },
@@ -49,9 +47,9 @@ export const site: SiteData = {
           title: 'spectrogram',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'https://spectrogram.website/#https://soundcloud.com/klippee/morning-walk-wip',
+              img: 'https://i.imgur.com/lZgvaqj.png',
             },
           ],
         },
@@ -59,9 +57,8 @@ export const site: SiteData = {
           title: 'wikitree',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'https://wikitree.website/',
+              img: 'https://i.imgur.com/l4fXdRx.png',
             },
           ],
         },
@@ -84,9 +81,9 @@ export const site: SiteData = {
           title: 'gravity',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/vanilla/gravity/interaction/test1.html',
+              img: 'https://i.imgur.com/oaBiH8b.png',
             },
           ],
         },
@@ -94,9 +91,9 @@ export const site: SiteData = {
           title: 'euclid',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/drawtool/euclid/zero.html',
+              img: 'https://i.imgur.com/0pvDJ7q.jpg',
             },
           ],
         },
@@ -104,9 +101,9 @@ export const site: SiteData = {
           title: 'parallax',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/vanilla/parallax/2.html',
+              img: 'https://i.imgur.com/zZVWNh8.jpg',
             },
           ],
         },
@@ -114,9 +111,8 @@ export const site: SiteData = {
           title: 'flocking',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              img: 'https://i.imgur.com/VF36ufA.png',
+              href: 'http://alexburner.com/',
             },
           ],
         },
@@ -124,14 +120,16 @@ export const site: SiteData = {
           title: 'trails',
           thumbs: [
             {
-              title: 'smooth',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'linear',
+              href:
+                'http://patterns.website/experiments/vanilla/flocking/play/unflock_lines.html',
+              img: 'https://i.imgur.com/9u8u6qD.png',
             },
             {
-              title: 'jitter',
-              img: 'https://i.imgur.com/BQs73xN.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'wandering',
+              href:
+                'http://patterns.website/experiments/vanilla/flocking/play/unflock_trails.html',
+              img: 'https://i.imgur.com/XBy09AB.png',
             },
           ],
         },

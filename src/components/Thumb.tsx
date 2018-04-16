@@ -7,9 +7,13 @@ interface Props {
 }
 
 const Thumb = ({ thumb }: Props): JSX.Element => (
-  <a className="thumb" href={thumb.href} title={thumb.title} target="_blank">
-    <img src={thumb.img} />
-  </a>
+  <a
+    className="thumb"
+    style={{ background: `center / cover no-repeat url("${thumb.img}")` }}
+    href={thumb.href}
+    title={thumb.title}
+    target="_blank"
+  />
 )
 
 export default Thumb
