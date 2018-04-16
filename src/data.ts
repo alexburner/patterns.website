@@ -30,7 +30,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/swatches/',
-              img: 'https://i.imgur.com/XbINmW2t.png',
+              img: 'https://i.imgur.com/XbINmW2m.png',
             },
           ],
         },
@@ -39,7 +39,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://daylight.website/',
-              img: 'https://i.imgur.com/Trh8ulIt.png',
+              img: 'https://i.imgur.com/Trh8ulIm.png',
             },
           ],
         },
@@ -49,7 +49,7 @@ export const site: SiteData = {
             {
               href:
                 'https://spectrogram.website/#https://soundcloud.com/klippee/morning-walk-wip',
-              img: 'https://i.imgur.com/lZgvaqjt.png',
+              img: 'https://i.imgur.com/lZgvaqjm.png',
             },
           ],
         },
@@ -58,7 +58,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://wikitree.website/',
-              img: 'https://i.imgur.com/l4fXdRxt.png',
+              img: 'https://i.imgur.com/l4fXdRxm.png',
             },
           ],
         },
@@ -72,7 +72,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -83,7 +83,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/vanilla/gravity/interaction/test1.html',
-              img: 'https://i.imgur.com/oaBiH8bt.png',
+              img: 'https://i.imgur.com/oaBiH8bm.png',
             },
           ],
         },
@@ -111,7 +111,7 @@ export const site: SiteData = {
           title: 'flocking',
           thumbs: [
             {
-              img: 'https://i.imgur.com/VF36ufAt.png',
+              img: 'https://i.imgur.com/VF36ufAm.png',
               href: 'http://alexburner.com/',
             },
           ],
@@ -123,13 +123,13 @@ export const site: SiteData = {
               title: 'linear',
               href:
                 'http://patterns.website/experiments/vanilla/flocking/play/unflock_lines.html',
-              img: 'https://i.imgur.com/9u8u6qDt.png',
+              img: 'https://i.imgur.com/9u8u6qDm.png',
             },
             {
               title: 'wandering',
               href:
                 'http://patterns.website/experiments/vanilla/flocking/play/unflock_trails.html',
-              img: 'https://i.imgur.com/XBy09ABt.png',
+              img: 'https://i.imgur.com/XBy09ABm.png',
             },
           ],
         },
@@ -138,12 +138,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'graph',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'laser',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -153,12 +153,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'euclidean',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'packing',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -168,12 +168,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'colors',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'outlines',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -183,12 +183,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'trichrome',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -198,12 +198,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'trichrome',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -218,12 +218,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'angles',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'angles & hues',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -233,12 +233,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'terrain',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'accident',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -248,22 +248,22 @@ export const site: SiteData = {
           thumbs: [
             {
               title: '2d wild',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: '2d bound',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: '3d wild',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: '3d bound',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -273,12 +273,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'wild',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'bound',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -288,7 +288,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -298,7 +298,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -308,7 +308,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -323,12 +323,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'rainbow',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -338,7 +338,37 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+          ],
+        },
+        {
+          title: 'platonic duals',
+          thumbs: [
+            {
+              title: 'tetra',
+              img: 'https://i.imgur.com/BQs73xNm.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+            {
+              title: 'octa',
+              img: 'https://i.imgur.com/BQs73xNm.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+            {
+              title: 'hexa',
+              img: 'https://i.imgur.com/BQs73xNm.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+            {
+              title: 'icosa',
+              img: 'https://i.imgur.com/BQs73xNm.png',
+              href: 'https://alexburner.github.io/dimensions',
+            },
+            {
+              title: 'dodeca',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -348,7 +378,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -358,7 +388,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -368,12 +398,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'rainbow',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -383,7 +413,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -393,7 +423,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -403,7 +433,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -413,17 +443,17 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'single',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'doubled',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'doubled, ratio',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -438,12 +468,12 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'random',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
             {
               title: 'all',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
@@ -453,7 +483,7 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNt.png',
+              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
             },
           ],
