@@ -30,6 +30,7 @@ body {
 }
 
 .items {
+  margin-top: 2px;
   padding: 0 2px;
 }
 
@@ -44,7 +45,7 @@ body {
 }
 
 .item p {
-  margin-top: 3px;
+  margin-top: 1px;
   font-size: 15px;
   opacity: 0.95;
 }
@@ -53,11 +54,16 @@ body {
   display: block;
   width: var(--width);
   height: var(--height);
-  margin-bottom: 1px;
-  border: 1px solid #777;
+  border: 1px solid #888;
+}
+
+.thumb:nth-child(n+1) {
+  margin-top: -1px;
 }
 
 .thumb:hover {
+  position: relative;
+  z-index: 2;
+  border: 1px solid #AAA;
   opacity: 0.85;
-  border: 1px solid #999;
 }

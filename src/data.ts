@@ -126,7 +126,7 @@ export const site: SiteData = {
               img: 'https://i.imgur.com/9u8u6qDm.png',
             },
             {
-              title: 'wandering',
+              title: 'jitter',
               href:
                 'http://patterns.website/experiments/vanilla/flocking/play/unflock_trails.html',
               img: 'https://i.imgur.com/XBy09ABm.png',
@@ -134,7 +134,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'connect dots',
+          title: 'connect the dots',
           thumbs: [
             {
               title: 'graph',
@@ -149,7 +149,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'flower draw',
+          title: 'flower sequence',
           thumbs: [
             {
               title: 'euclidean',
