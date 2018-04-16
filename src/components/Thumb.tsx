@@ -11,7 +11,6 @@ const Thumb = ({ thumb }: Props): JSX.Element => (
     className="thumb"
     style={{ background: `center / cover no-repeat url("${thumb.img}")` }}
     href={thumb.href}
-    title={thumb.title}
     target="_blank"
   />
 )
