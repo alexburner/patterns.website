@@ -2,7 +2,7 @@ import React from 'react'
 
 import Masonry from 'react-masonry-component'
 import Item from 'src/components/Item'
-import { SectionData, SiteData } from 'src/data'
+import { SectionData } from 'src/data'
 
 interface Props {
   section: SectionData

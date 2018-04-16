@@ -1,7 +1,7 @@
 import React from 'react'
 
 import Thumb from 'src/components/Thumb'
-import { ItemData, SectionData, SiteData } from 'src/data'
+import { ItemData } from 'src/data'
 
 interface Props {
   item: ItemData
