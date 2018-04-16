@@ -39,21 +39,20 @@ body {
 }
 
 .item p {
-  font-size: 16px;
+  margin-top: 3px;
+  font-size: 15px;
   opacity: 0.95;
 }
 
-.thumb,
-.thumb img {
+.thumb {
   display: block;
   width: var(--width);
   height: var(--height);
-}
-
-.thumb {
   margin-bottom: 1px;
+  border: 1px solid #777;
 }
 
-.thumb:hover img {
+.thumb:hover {
   opacity: 0.85;
+  border: 1px solid #999;
 }
