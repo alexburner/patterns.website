@@ -26,6 +26,11 @@ body {
 
 .section {
   margin: 4% 0;
+  padding: 0 7px;
+}
+
+.section h2 {
+  margin-left: -3px;
 }
 
 .item {
