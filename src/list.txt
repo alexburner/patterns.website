@@ -1,44 +1,50 @@
 patterns
 
 sites
+- swatches
 - daylight
 - spectrogram
-- quote garden
 - wikitree
 
 interactive
-- swatches
 - dimensions
 - gravity
 - euclid
 - parallax
 - flocking
-- trails
-- connect the dots
-- moire
+- trails (smooth, jitter)
+- connect the dots (graph, laser)
+- flower sequence (overlap, packed)
+- treble rotations (color, outline)
+- nesting triangles (monochrome, trichrome)
+- moire (monochrome, trichrome)
 
 static random
-- flow field
-- topography
-- 2d diffusion (bound, wild)
-- 3d diffusion (bound, wild)
+- flow field (angles, hues)
+- topography (terrain, accident)
+- diffusion (2d, 3d, bound, wild)
 - mirror particles
 - nbody trails
-- spheres jumble
+- sphere jumble
 
 static deterministic
-- polyhedra spread
 - polygons continuous
-- polygons nested
+- polyhedra spread
 - polygons spread
-- holonstar
+- polygons nested
 - hopf lines
+- offsets [aka shuffle madness]
+- holonstar
 - genesis
-- flower doubled (same, ratio)
-- flower sequence
+- flower (single, x2 same, x2 ratio)
 
 printable
 - polygon fields
 - 24 toward infinity
 - genesis
-- flower (single, doubled same, doubled ratio)
+- flower (single, x2 same, x2 ratio)
+
+theoretic
+- quote garden
+- bound concepts
+- quadrants

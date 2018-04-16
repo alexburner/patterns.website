@@ -29,9 +29,10 @@
     "curly": [true, "ignore-same-line"],
     "early-exit": true,
     "export-name": true,
-    "import-name": [true, {
-      "react": "React"
-    }],
+    // "import-name": [true, {
+    //   "react": "React",
+    //   "react-masonry-component": "Masonry"
+    // }],
     "interface-over-type-literal": true,
     "jsdoc-format": true,
     "jsx-boolean-value": [true, "never"],
