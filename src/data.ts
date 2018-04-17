@@ -150,7 +150,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href:
-                'http://patterns.website/experiments/paperjs/originals/flower_of_life.html',
+                'http://patterns.website/experiments/paperjs/originals/flower_of_life_giant.html',
               img: 'https://i.imgur.com/pDgzwdSm.png',
             },
           ],
