@@ -185,7 +185,7 @@ export const site: SiteData = {
               title: 'trichrome',
               href:
                 'http://patterns.website/experiments/paperjs/originals/triangles_colors.html',
-              img: 'https://i.imgur.com/oWKa2o8m.png',
+              img: 'https://i.imgur.com/Lh71hy9m.png',
             },
           ],
         },
