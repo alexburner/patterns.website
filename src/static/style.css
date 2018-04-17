@@ -16,12 +16,24 @@ body {
   margin: 0;
   padding: 0;
   font-family: sans-serif;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "liga" on;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -moz-font-feature-settings: "liga" on;
   background-color: #EEE;
   color: #333;
 }
 
 .app {
   padding: 3% 4% 5%;
+}
+
+.app .subtitle {
+  float: right;
+  line-height: 44px;
+  font-size: 16px;
+  opacity: 0.5;
 }
 
 .section {
@@ -45,9 +57,10 @@ body {
 }
 
 .item p {
-  margin-top: 1px;
-  font-size: 15px;
-  opacity: 0.95;
+  margin-top: 3px;
+  font-family: Georgia, serif;
+  font-style: italic;
+  font-size: 14px;
 }
 
 .thumb {

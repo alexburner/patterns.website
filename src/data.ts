@@ -1,5 +1,6 @@
 export interface SiteData {
   title: string
+  subtitle: string
   sections: SectionData[]
 }
 
@@ -21,6 +22,7 @@ export interface ThumbData {
 
 export const site: SiteData = {
   title: 'patterns',
+  subtitle: '2012 – 2018',
   sections: [
     {
       title: 'sites',
@@ -65,7 +67,7 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'interactive experiments',
+      title: 'experiments (interactive)',
       items: [
         {
           title: 'dimensions',
@@ -205,7 +207,7 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'static (random) experiments',
+      title: 'experiments (static) [random] ',
       items: [
         {
           title: 'flow field',
@@ -310,7 +312,7 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'static (deterministic) experiments',
+      title: 'experiments (static) [deterministic]',
       items: [
         {
           title: 'polygon stream',
