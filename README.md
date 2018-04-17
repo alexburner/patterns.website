@@ -1,4 +1,4 @@
-# patterns
+# patterns.website
 Index of efforts
 
 ## install

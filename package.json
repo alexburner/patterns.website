@@ -1,5 +1,5 @@
 {
-  "name": "patterns",
+  "name": "patterns.website",
   "version": "0.1.0",
   "description": "Index of efforts",
   "author": "aburner",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/alexburner/patterns.git"
+    "url": "git+https://github.com/alexburner/patterns.website.git"
   },
   "dependencies": {
     "babel-polyfill": "6.26.0",
