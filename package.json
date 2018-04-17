@@ -1,7 +1,7 @@
 {
   "name": "patterns.website",
   "version": "0.1.0",
-  "description": "Index of efforts",
+  "description": "Indexing personal projects",
   "author": "aburner",
   "license": "MIT",
   "main": "src/index.tsx",

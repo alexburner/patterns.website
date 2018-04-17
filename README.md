@@ -1,5 +1,5 @@
 # patterns.website
-Index of efforts
+Indexing personal projects
 
 ## install
 Install npm dependencies
