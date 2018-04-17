@@ -73,9 +73,27 @@ export const site: SiteData = {
           title: 'dimensions',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
               href: 'https://alexburner.github.io/dimensions',
+              img: 'https://i.imgur.com/BQs73xNm.png',
+            },
+          ],
+        },
+        {
+          title: 'force hover',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/force-base/#pixi-map-hover',
+              img: 'https://i.imgur.com/7okwf6vm.png',
+            },
+          ],
+        },
+        {
+          title: 'force drag',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/workers/force-layout/2nd--drag/dragging.html',
+              img: 'https://i.imgur.com/CEsYk4lm.png',
             },
           ],
         },
