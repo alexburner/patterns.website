@@ -31,13 +31,13 @@ body {
 
 .app .subtitle {
   float: right;
-  line-height: 44px;
+  line-height: 42px;
   font-size: 16px;
   opacity: 0.5;
 }
 
 .section {
-  margin: 4% 0;
+  margin: 5% 0;
   padding: 0 2px;
 }
 
@@ -47,8 +47,8 @@ body {
 }
 
 .item {
-  --margin-x: 20px;
-  --margin-y: 12px;
+  --margin-x: 21px;
+  --margin-y: 14px;
   display: inline-block;
   width: var(--width);
   margin-right: var(--margin-x);
