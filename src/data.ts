@@ -441,7 +441,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
-              img: 'https://i.imgur.com/b931U1cm.png',
+              img: 'https://i.imgur.com/6L0gcN1.png',
             },
           ],
         },
