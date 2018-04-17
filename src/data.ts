@@ -105,7 +105,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/vanilla/parallax/2.html',
-              img: 'https://i.imgur.com/zZVWNh8.jpg',
+              img: 'https://i.imgur.com/raVJ7TB.png',
             },
           ],
         },
@@ -113,7 +113,7 @@ export const site: SiteData = {
           title: 'flocking',
           thumbs: [
             {
-              img: 'https://i.imgur.com/VF36ufAm.png',
+              img: 'https://i.imgur.com/5VqVBGn.png',
               href: 'http://alexburner.com/',
             },
           ],
@@ -151,7 +151,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/flower_of_life.html',
-              img: 'https://i.imgur.com/qq6BA94m.png',
+              img: 'https://i.imgur.com/pDgzwdSm.png',
             },
           ],
         },
@@ -179,7 +179,7 @@ export const site: SiteData = {
               title: 'monochrome',
               href:
                 'http://patterns.website/experiments/paperjs/originals/triangles.html',
-              img: 'https://i.imgur.com/XLNP0k9m.png',
+              img: 'https://i.imgur.com/jDxMHmvm.png',
             },
             {
               title: 'trichrome',
@@ -195,12 +195,12 @@ export const site: SiteData = {
             {
               title: 'monochrome',
               href: 'http://patterns.website/experiments/d3js/moire/mono.html',
-              img: 'https://i.imgur.com/w2JM4iGm.png',
+              img: 'https://i.imgur.com/PSp85R8m.png',
             },
             {
               title: 'trichrome',
               href: 'http://patterns.website/experiments/d3js/moire/chrom.html',
-              img: 'https://i.imgur.com/T9MwGblm.png',
+              img: 'https://i.imgur.com/sjc9vppm.png',
             },
           ],
         },
@@ -213,14 +213,16 @@ export const site: SiteData = {
           title: 'flow field',
           thumbs: [
             {
-              title: 'angles',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'lines',
+              href:
+                'http://patterns.website/experiments/p5js/shiffman/flow-field/lines.html',
+              img: 'https://i.imgur.com/EAG99VQm.png',
             },
             {
-              title: 'angles & hues',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'hues',
+              href:
+                'http://patterns.website/experiments/p5js/shiffman/flow-field/hues.html',
+              img: 'https://i.imgur.com/Wj2tDpom.png',
             },
           ],
         },
@@ -229,13 +231,15 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'terrain',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/other/terrain.html',
+              img: 'https://i.imgur.com/CDKgzt5m.png',
             },
             {
-              title: 'accident',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'whoops',
+              href:
+                'http://patterns.website/experiments/paperjs/other/terrain--hmmm.html',
+              img: 'https://i.imgur.com/Um1Duxzm.png',
             },
           ],
         },
@@ -243,49 +247,48 @@ export const site: SiteData = {
           title: 'diffusion',
           thumbs: [
             {
-              title: '2d wild',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-            {
               title: '2d bound',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-2d-bound.html#24',
+              img: 'https://i.imgur.com/DhGNMNu.png',
             },
             {
-              title: '3d wild',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: '2d wild',
+              href:
+                'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-2d-wild.html#24',
+              img: 'https://i.imgur.com/InRERwh.png',
             },
             {
               title: '3d bound',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-3d-bound.html#24',
+              img: 'https://i.imgur.com/qbejFQx.png',
+            },
+            {
+              title: '3d wild',
+              href:
+                'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-3d-wild.html#24',
+              img: 'https://i.imgur.com/F4bAXBw.png',
             },
           ],
         },
         {
-          title: 'diffusion tables',
+          title: 'diffusion 2d/3d',
           thumbs: [
             {
-              title: 'wild',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-            {
-              title: 'bound',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/workers/diffusion/3rd--n-table/draft-2/normal.html',
+              img: 'https://i.imgur.com/LAI6Ingm.png',
             },
           ],
         },
         {
-          title: 'mirror particles',
+          title: 'diffusion circles',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/workers/diffusion/3rd--n-table/groups/test5.html',
+              img: 'https://i.imgur.com/jRY5PZQm.png',
             },
           ],
         },
@@ -293,19 +296,28 @@ export const site: SiteData = {
           title: 'nbody trails',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'http://patterns.website/experiments/protovis/trails.html',
+              img: 'https://i.imgur.com/KxlpfbZm.png',
             },
           ],
         },
         {
-          title: 'sphere jumble',
+          title: 'mirror particles',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/twist.html',
+              img: 'https://i.imgur.com/Dw6nBpAm.png',
+            },
+          ],
+        },
+        {
+          title: 'spheres',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/threejs/spheres+cam.html',
+              img: 'https://i.imgur.com/tnrTVcBm.png',
             },
           ],
         },
@@ -315,27 +327,19 @@ export const site: SiteData = {
       title: 'experiments (static) [deterministic]',
       items: [
         {
-          title: 'polygon stream',
+          title: 'polygon streams',
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/p5js/n-gons/test2.html',
+              img: 'https://i.imgur.com/t1CVrhAm.png',
             },
             {
               title: 'rainbow',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-          ],
-        },
-        {
-          title: 'polyhedra spreads',
-          thumbs: [
-            {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/p5js/n-gons/test3.html',
+              img: 'https://i.imgur.com/nm2NgEim.png',
             },
           ],
         },
@@ -344,28 +348,78 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'tetra',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/04-tetra.html',
+              img: 'https://i.imgur.com/Z7Pt4cF.png',
             },
             {
               title: 'octa',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/06-octa.html',
+              img: 'https://i.imgur.com/nW3XUpi.png',
             },
             {
               title: 'hexa',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/08-hexa.html',
+              img: 'https://i.imgur.com/g6XPs6d.png',
             },
             {
               title: 'icosa',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/12-icosa.html',
+              img: 'https://i.imgur.com/zumxhB1.png',
             },
             {
               title: 'dodeca',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/20-dodeca.html',
+              img: 'https://i.imgur.com/tqbCrEf.png',
+            },
+          ],
+        },
+        {
+          title: 'platonics',
+          thumbs: [
+            {
+              title: 'tetra',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/04-tetra.html',
+              img: 'https://i.imgur.com/20vUR9N.png',
+            },
+            {
+              title: 'octa',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/06-octa.html',
+              img: 'https://i.imgur.com/6o4bDl4.png',
+            },
+            {
+              title: 'hexa',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/08-hexa.html',
+              img: 'https://i.imgur.com/USSReCB.png',
+            },
+            {
+              title: 'icosa',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/12-icosa.html',
+              img: 'https://i.imgur.com/yRLJsBA.png',
+            },
+            {
+              title: 'dodeca',
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/20-dodeca.html',
+              img: 'https://i.imgur.com/Cu5sd8E.png',
+            },
+          ],
+        },
+        {
+          title: 'polyhedra spreads',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/numbers.html',
+              img: 'https://i.imgur.com/EwdkU0Mm.png',
             },
           ],
         },
@@ -373,9 +427,9 @@ export const site: SiteData = {
           title: 'polygon spreads',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/other/polygon-numbers.html',
+              img: 'https://i.imgur.com/6GqUVQHm.png',
             },
           ],
         },
@@ -383,9 +437,9 @@ export const site: SiteData = {
           title: 'polygon nesting',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/other/polygon_overlap.html',
+              img: 'https://i.imgur.com/x5vKlKXm.png',
             },
           ],
         },
@@ -394,23 +448,15 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/other/hopf_more.html',
+              img: 'https://i.imgur.com/Rfz9TDOm.png',
             },
             {
               title: 'rainbow',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-          ],
-        },
-        {
-          title: 'offsets',
-          thumbs: [
-            {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/other/hopf_more+color.html',
+              img: 'https://i.imgur.com/AMVAyJhm.png',
             },
           ],
         },
@@ -418,9 +464,9 @@ export const site: SiteData = {
           title: 'holonstar',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/other/holonstar-6.html',
+              img: 'https://i.imgur.com/0uxwVXqm.png',
             },
           ],
         },
@@ -428,29 +474,26 @@ export const site: SiteData = {
           title: 'genesis',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
+              img: 'https://i.imgur.com/b931U1cm.png',
             },
           ],
         },
         {
-          title: 'flower',
+          title: 'flower doubles',
           thumbs: [
             {
-              title: 'single',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'pure',
+              href:
+                'http://patterns.website/experiments/paperjs/working2/flower_x2.html',
+              img: 'https://i.imgur.com/cBKkqzrm.png',
             },
             {
-              title: 'doubled',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-            {
-              title: 'doubled, ratio',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'ratio',
+              href:
+                'http://patterns.website/experiments/paperjs/working2/flower_x2_rt.html',
+              img: 'https://i.imgur.com/VLp0GMUm.png',
             },
           ],
         },
@@ -464,13 +507,13 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'random',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'http://originalburn.com/quotes/newrandom',
+              img: 'https://i.imgur.com/auw5S6Zm.png',
             },
             {
               title: 'all',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'http://originalburn.com/quotes/all',
+              img: 'https://i.imgur.com/OxDwKp3m.png',
             },
           ],
         },
@@ -478,9 +521,8 @@ export const site: SiteData = {
           title: 'bound concepts',
           thumbs: [
             {
-              title: 'dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'http://originalburn.com/bounds/random',
+              img: 'https://i.imgur.com/XuSI23qm.png',
             },
           ],
         },
