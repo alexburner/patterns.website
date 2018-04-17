@@ -379,41 +379,6 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'platonics',
-          thumbs: [
-            {
-              title: 'tetra',
-              href:
-                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/04-tetra.html',
-              img: 'https://i.imgur.com/20vUR9N.png',
-            },
-            {
-              title: 'octa',
-              href:
-                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/06-octa.html',
-              img: 'https://i.imgur.com/6o4bDl4.png',
-            },
-            {
-              title: 'hexa',
-              href:
-                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/08-hexa.html',
-              img: 'https://i.imgur.com/USSReCB.png',
-            },
-            {
-              title: 'icosa',
-              href:
-                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/12-icosa.html',
-              img: 'https://i.imgur.com/yRLJsBA.png',
-            },
-            {
-              title: 'dodeca',
-              href:
-                'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/20-dodeca.html',
-              img: 'https://i.imgur.com/Cu5sd8E.png',
-            },
-          ],
-        },
-        {
           title: 'polyhedra spreads',
           thumbs: [
             {
