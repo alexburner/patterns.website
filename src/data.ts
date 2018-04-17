@@ -277,7 +277,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href:
-                'http://patterns.website/experiments/workers/diffusion/3rd--n-table/draft-2/normal.html',
+                'http://patterns.website/experiments/workers/diffusion/3rd--n-table/draft-2/normal.html#7',
               img: 'https://i.imgur.com/LAI6Ingm.png',
             },
           ],
