@@ -137,14 +137,9 @@ export const site: SiteData = {
           title: 'connect the dots',
           thumbs: [
             {
-              title: 'graph',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-            {
-              title: 'laser',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/connect_the_dots_graph.html',
+              img: 'https://i.imgur.com/uXQRQIRm.jpg',
             },
           ],
         },
@@ -152,14 +147,9 @@ export const site: SiteData = {
           title: 'flower sequence',
           thumbs: [
             {
-              title: 'euclidean',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
-            },
-            {
-              title: 'packing',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/flower_of_life.html',
+              img: 'https://i.imgur.com/qq6BA94m.png',
             },
           ],
         },
@@ -167,14 +157,16 @@ export const site: SiteData = {
           title: 'treble rotations',
           thumbs: [
             {
-              title: 'colors',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'outlines',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/treble_outlines.html',
+              img: 'https://i.imgur.com/YWeQw9Ym.png',
             },
             {
-              title: 'outlines',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              title: 'colors',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/treble.html',
+              img: 'https://i.imgur.com/zx8vQITm.png',
             },
           ],
         },
@@ -183,13 +175,15 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/triangles.html',
+              img: 'https://i.imgur.com/XLNP0k9m.png',
             },
             {
               title: 'trichrome',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/triangles_colors.html',
+              img: 'https://i.imgur.com/3oLBDwim.png',
             },
           ],
         },
@@ -198,13 +192,13 @@ export const site: SiteData = {
           thumbs: [
             {
               title: 'monochrome',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'http://patterns.website/experiments/d3js/moire/mono.html',
+              img: 'https://i.imgur.com/w2JM4iGm.png',
             },
             {
               title: 'trichrome',
-              img: 'https://i.imgur.com/BQs73xNm.png',
-              href: 'https://alexburner.github.io/dimensions',
+              href: 'http://patterns.website/experiments/d3js/moire/chrom.html',
+              img: 'https://i.imgur.com/T9MwGblm.png',
             },
           ],
         },
