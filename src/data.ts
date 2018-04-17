@@ -320,6 +320,16 @@ export const site: SiteData = {
           ],
         },
         {
+          title: 'flock trails',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/vanilla/flock-n/2d.html',
+              img: 'https://i.imgur.com/MA0CKsUm.png',
+            },
+          ],
+        },
+        {
           title: 'mirror particles',
           thumbs: [
             {
