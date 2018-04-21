@@ -471,7 +471,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'flower doubles',
+          title: 'flower double',
           thumbs: [
             {
               title: 'pure',
