@@ -461,16 +461,6 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'holonstar',
-          thumbs: [
-            {
-              href:
-                'http://patterns.website/experiments/paperjs/other/holonstar-6.html',
-              img: 'https://i.imgur.com/0uxwVXqm.png',
-            },
-          ],
-        },
-        {
           title: 'genesis',
           thumbs: [
             {
@@ -494,6 +484,16 @@ export const site: SiteData = {
               href:
                 'http://patterns.website/experiments/paperjs/working2/flower_x2_rt.html',
               img: 'https://i.imgur.com/kk2I1NHm.png',
+            },
+          ],
+        },
+        {
+          title: 'holonstar',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/paperjs/other/holonstar-6.html',
+              img: 'https://i.imgur.com/0uxwVXqm.png',
             },
           ],
         },
