@@ -5,8 +5,10 @@
 }
 
 :root {
-  --width: 140px;
-  --height: 90px;
+  --item-width: 140px;
+  --item-height: 90px;
+  --item-margin-x: 21px;
+  --item-margin-y: 14px;
 }
 
 html,
@@ -27,6 +29,12 @@ body {
 
 .app {
   padding: 3% 4% 5%;
+  padding-right: calc(4% - var(--item-margin-x));
+}
+
+.app h1 {
+  /* TODO this is hacky */
+  padding-right: var(--item-margin-x);
 }
 
 .app .subtitle {
@@ -47,12 +55,10 @@ body {
 }
 
 .item {
-  --margin-x: 21px;
-  --margin-y: 14px;
   display: inline-block;
-  width: var(--width);
-  margin-right: var(--margin-x);
-  margin-top: var(--margin-y);
+  width: var(--item-width);
+  margin-right: var(--item-margin-x);
+  margin-top: var(--item-margin-y);
   text-align: center;
 }
 
@@ -63,8 +69,8 @@ body {
 
 .thumb {
   display: block;
-  width: var(--width);
-  height: var(--height);
+  width: var(--item-width);
+  height: var(--item-height);
   border: 1px solid #888;
 }
 
