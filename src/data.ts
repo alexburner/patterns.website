@@ -330,6 +330,16 @@ export const site: SiteData = {
           ],
         },
         {
+          title: 'polyhedra spread',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/threejs/polyhedra/numbers.html',
+              img: 'https://i.imgur.com/EwdkU0Mm.png',
+            },
+          ],
+        },
+        {
           title: 'mirror particles',
           thumbs: [
             {
@@ -403,16 +413,6 @@ export const site: SiteData = {
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/20-dodeca.html',
               img: 'https://i.imgur.com/tqbCrEf.png',
-            },
-          ],
-        },
-        {
-          title: 'polyhedra spread',
-          thumbs: [
-            {
-              href:
-                'http://patterns.website/experiments/threejs/polyhedra/numbers.html',
-              img: 'https://i.imgur.com/EwdkU0Mm.png',
             },
           ],
         },
