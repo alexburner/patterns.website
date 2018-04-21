@@ -83,7 +83,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/force-base/#pixi-map-hover',
-              img: 'https://i.imgur.com/cU6TB2Em.png',
+              img: 'https://i.imgur.com/wSV8HUGm.png',
             },
           ],
         },
