@@ -352,7 +352,7 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'experiments (static) [deterministic]',
+      title: 'experiments (static) [determined]',
       items: [
         {
           title: 'polygon stream',
