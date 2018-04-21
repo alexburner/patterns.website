@@ -83,7 +83,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/force-base/#pixi-map-hover',
-              img: 'https://i.imgur.com/7okwf6vm.png',
+              img: 'https://i.imgur.com/cU6TB2Em.png',
             },
           ],
         },
@@ -169,7 +169,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/flower_of_life_giant.html',
-              img: 'https://i.imgur.com/pDgzwdSm.png',
+              img: 'https://i.imgur.com/SQaf8qem.png',
             },
           ],
         },
@@ -177,33 +177,33 @@ export const site: SiteData = {
           title: 'treble rotations',
           thumbs: [
             {
-              title: 'outlines',
-              href:
-                'http://patterns.website/experiments/paperjs/originals/treble_outlines.html',
-              img: 'https://i.imgur.com/YWeQw9Ym.png',
-            },
-            {
               title: 'colors',
               href:
                 'http://patterns.website/experiments/paperjs/originals/treble.html',
               img: 'https://i.imgur.com/zx8vQITm.png',
             },
+            {
+              title: 'outlines',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/treble_outlines.html',
+              img: 'https://i.imgur.com/YWeQw9Ym.png',
+            },
           ],
         },
         {
-          title: 'nesting triangles',
+          title: 'triangle rotations',
           thumbs: [
+            {
+              title: 'trichrome',
+              href:
+                'http://patterns.website/experiments/paperjs/originals/triangles_colors.html',
+              img: 'https://i.imgur.com/3Q0tNqkm.png',
+            },
             {
               title: 'monochrome',
               href:
                 'http://patterns.website/experiments/paperjs/originals/triangles.html',
               img: 'https://i.imgur.com/jDxMHmvm.png',
-            },
-            {
-              title: 'trichrome',
-              href:
-                'http://patterns.website/experiments/paperjs/originals/triangles_colors.html',
-              img: 'https://i.imgur.com/Lh71hy9m.png',
             },
           ],
         },
@@ -213,7 +213,7 @@ export const site: SiteData = {
             {
               title: 'monochrome',
               href: 'http://patterns.website/experiments/d3js/moire/mono.html',
-              img: 'https://i.imgur.com/PSp85R8m.png',
+              img: 'https://i.imgur.com/h5aTfgvm.png',
             },
             {
               title: 'trichrome',
@@ -480,13 +480,13 @@ export const site: SiteData = {
               title: 'pure',
               href:
                 'http://patterns.website/experiments/paperjs/working2/flower_x2.html',
-              img: 'https://i.imgur.com/cBKkqzrm.png',
+              img: 'https://i.imgur.com/OovBNZFm.png',
             },
             {
               title: 'ratio',
               href:
                 'http://patterns.website/experiments/paperjs/working2/flower_x2_rt.html',
-              img: 'https://i.imgur.com/VLp0GMUm.png',
+              img: 'https://i.imgur.com/kk2I1NHm.png',
             },
           ],
         },
@@ -496,7 +496,7 @@ export const site: SiteData = {
       title: 'theoretics',
       items: [
         {
-          title: 'quote garden',
+          title: 'quotes',
           thumbs: [
             {
               title: 'random',
@@ -511,7 +511,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'bound concepts',
+          title: 'cycles',
           thumbs: [
             {
               href: 'http://originalburn.com/bounds/random',
