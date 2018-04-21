@@ -420,9 +420,16 @@ export const site: SiteData = {
           title: 'polygon spreads',
           thumbs: [
             {
+              title: 'proximity',
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon-numbers.html',
-              img: 'https://i.imgur.com/6GqUVQHm.png',
+              img: 'https://i.imgur.com/K3ODSNYm.png',
+            },
+            {
+              title: 'radius',
+              href:
+                'http://patterns.website/experiments/paperjs/other/polygon-numbers(sameradius).html',
+              img: 'https://i.imgur.com/PzBTZlSm.png',
             },
           ],
         },
