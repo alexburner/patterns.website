@@ -407,7 +407,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'polyhedra spreads',
+          title: 'polyhedra spread',
           thumbs: [
             {
               href:
@@ -417,7 +417,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'polygon spreads',
+          title: 'polygon spread',
           thumbs: [
             {
               title: 'proximity',
