@@ -423,13 +423,13 @@ export const site: SiteData = {
               title: 'proximity',
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon-numbers.html',
-              img: 'https://i.imgur.com/K3ODSNYm.png',
+              img: 'https://i.imgur.com/jk3OQ0wm.png',
             },
             {
               title: 'radius',
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon-numbers(sameradius).html',
-              img: 'https://i.imgur.com/PzBTZlSm.png',
+              img: 'https://i.imgur.com/vfyI476m.png',
             },
           ],
         },
