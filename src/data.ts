@@ -355,7 +355,7 @@ export const site: SiteData = {
       title: 'experiments (static) [deterministic]',
       items: [
         {
-          title: 'polygon streams',
+          title: 'polygon stream',
           thumbs: [
             {
               title: 'monochrome',
