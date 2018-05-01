@@ -500,7 +500,7 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'theoretics',
+      title: 'words',
       items: [
         {
           title: 'quotes',

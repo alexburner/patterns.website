@@ -16,7 +16,7 @@ const Item = ({ item }: Props): JSX.Element => (
         thumb={thumb}
       />
     ))}
-    <p>{item.title}</p>
+    <p className="user-select-none">{item.title}</p>
   </div>
 )
 
