@@ -113,7 +113,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/drawtool/euclid/zero.html',
-              img: 'https://i.imgur.com/0pvDJ7q.jpg',
+              img: 'https://i.imgur.com/0pvDJ7qm.png',
             },
           ],
         },
@@ -123,7 +123,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/vanilla/parallax/2.html',
-              img: 'https://i.imgur.com/raVJ7TB.png',
+              img: 'https://i.imgur.com/raVJ7TBm.png',
             },
           ],
         },
@@ -131,8 +131,8 @@ export const site: SiteData = {
           title: 'flocking',
           thumbs: [
             {
-              img: 'https://i.imgur.com/5VqVBGn.png',
               href: 'http://alexburner.com/',
+              img: 'https://i.imgur.com/5VqVBGnm.png',
             },
           ],
         },
@@ -159,7 +159,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/connect_the_dots_graph.html',
-              img: 'https://i.imgur.com/uXQRQIRm.jpg',
+              img: 'https://i.imgur.com/uXQRQIRm.png',
             },
           ],
         },
@@ -268,25 +268,25 @@ export const site: SiteData = {
               title: '2d bound',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-2d-bound.html#24',
-              img: 'https://i.imgur.com/DhGNMNu.png',
+              img: 'https://i.imgur.com/DhGNMNum.png',
             },
             {
               title: '2d wild',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-2d-wild.html#24',
-              img: 'https://i.imgur.com/InRERwh.png',
+              img: 'https://i.imgur.com/InRERwhm.png',
             },
             {
               title: '3d bound',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-3d-bound.html#24',
-              img: 'https://i.imgur.com/qbejFQx.png',
+              img: 'https://i.imgur.com/qbejFQxm.png',
             },
             {
               title: '3d wild',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-3d-wild.html#24',
-              img: 'https://i.imgur.com/F4bAXBw.png',
+              img: 'https://i.imgur.com/F4bAXBwm.png',
             },
           ],
         },
@@ -388,31 +388,31 @@ export const site: SiteData = {
               title: 'tetra',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/04-tetra.html',
-              img: 'https://i.imgur.com/Z7Pt4cF.png',
+              img: 'https://i.imgur.com/Z7Pt4cFm.png',
             },
             {
               title: 'octa',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/06-octa.html',
-              img: 'https://i.imgur.com/nW3XUpi.png',
+              img: 'https://i.imgur.com/nW3XUpim.png',
             },
             {
               title: 'hexa',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/08-hexa.html',
-              img: 'https://i.imgur.com/g6XPs6d.png',
+              img: 'https://i.imgur.com/g6XPs6dm.png',
             },
             {
               title: 'icosa',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/12-icosa.html',
-              img: 'https://i.imgur.com/zumxhB1.png',
+              img: 'https://i.imgur.com/zumxhB1m.png',
             },
             {
               title: 'dodeca',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/20-dodeca.html',
-              img: 'https://i.imgur.com/tqbCrEf.png',
+              img: 'https://i.imgur.com/tqbCrEfm.png',
             },
           ],
         },
@@ -420,16 +420,16 @@ export const site: SiteData = {
           title: 'polygon spread',
           thumbs: [
             {
-              title: 'proximity',
-              href:
-                'http://patterns.website/experiments/paperjs/other/polygon-numbers.html',
-              img: 'https://i.imgur.com/jk3OQ0wm.png',
-            },
-            {
               title: 'radius',
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon-numbers(sameradius).html',
               img: 'https://i.imgur.com/vfyI476m.png',
+            },
+            {
+              title: 'proximity',
+              href:
+                'http://patterns.website/experiments/paperjs/other/polygon-numbers.html',
+              img: 'https://i.imgur.com/jk3OQ0wm.png',
             },
           ],
         },
@@ -466,10 +466,25 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
-              img: 'https://i.imgur.com/6L0gcN1.png',
+              img: 'https://i.imgur.com/6L0gcN1m.png',
             },
           ],
         },
+        {
+          title: 'holonstar',
+          thumbs: [
+            {
+              href:
+                'http://patterns.website/experiments/paperjs/other/holonstar-6.html',
+              img: 'https://i.imgur.com/0uxwVXqm.png',
+            },
+          ],
+        },
+      ],
+    },
+    /* {
+      title: 'printables',
+      items: [
         {
           title: 'flower double',
           thumbs: [
@@ -487,18 +502,8 @@ export const site: SiteData = {
             },
           ],
         },
-        {
-          title: 'holonstar',
-          thumbs: [
-            {
-              href:
-                'http://patterns.website/experiments/paperjs/other/holonstar-6.html',
-              img: 'https://i.imgur.com/0uxwVXqm.png',
-            },
-          ],
-        },
       ],
-    },
+    }, */
     {
       title: 'words',
       items: [

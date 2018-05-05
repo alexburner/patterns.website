@@ -5,10 +5,12 @@
 }
 
 :root {
-  --item-width: 140px;
-  --item-height: 90px;
-  --item-margin-x: 14px;
-  --item-margin-y: 14px;
+  --item-width: 280px;
+  --item-height: 180px;
+  --item-margin: 14px;
+  --item-margin-x: var(--item-margin);
+  --item-margin-y: var(--item-margin);
+  --nest-padding: 3px;
 }
 
 html,
@@ -28,18 +30,18 @@ body {
 }
 
 .app {
-  padding: 3% 4% 5%;
-  padding-right: calc(4% - var(--item-margin-x));
+  padding: 4% 5% 6%;
+  padding-right: var(--item-margin-x);
 }
 
 .section {
   margin: 5% 0;
-  padding: 0 1px;
+  padding: 0 var(--nest-padding);
 }
 
 .items {
   margin-top: 2px;
-  padding: 0 1px;
+  padding: 0 var(--nest-padding);
 }
 
 .item {
@@ -48,7 +50,6 @@ body {
   margin-right: var(--item-margin-x);
   margin-top: var(--item-margin-y);
   text-align: center;
-
   background-color: #FFF;
   padding: 6px 7px 3px;
 }
@@ -63,6 +64,10 @@ body {
   display: block;
   width: var(--item-width);
   height: var(--item-height);
+  background-color: #EEE;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .thumb:hover {
@@ -70,8 +75,12 @@ body {
 }
 
 .user-select-none {
-  -webkit-user-select: none;  /* Chrome all / Safari all */
-  -moz-user-select: none;     /* Firefox all */
-  -ms-user-select: none;      /* IE 10+ */
-  user-select: none;          /* Likely future */
+  -webkit-user-select: none;
+  /* Chrome all / Safari all */
+  -moz-user-select: none;
+  /* Firefox all */
+  -ms-user-select: none;
+  /* IE 10+ */
+  user-select: none;
+  /* Likely future */
 }

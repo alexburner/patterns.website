@@ -7,14 +7,10 @@ interface Props {
   thumb: ThumbData
 }
 
-const COLOR = '#888'
-
 const Thumb = ({ title, thumb }: Props): JSX.Element => (
   <a
-    style={{
-      background: `${COLOR} center / cover no-repeat url("${thumb.img}")`,
-    }}
     className="thumb"
+    style={{ backgroundImage: `url("${thumb.img}")` }}
     title={thumb.title || title}
     href={thumb.href}
     target="_blank"
