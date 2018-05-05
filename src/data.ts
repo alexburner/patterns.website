@@ -32,7 +32,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/swatches/',
-              img: 'https://i.imgur.com/XbINmW2m.png',
+              img: 'https://i.imgur.com/XbINmW2l.png',
             },
           ],
         },
@@ -41,7 +41,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://daylight.website/',
-              img: 'https://i.imgur.com/Trh8ulIm.png',
+              img: 'https://i.imgur.com/Trh8ulIl.png',
             },
           ],
         },
@@ -51,7 +51,7 @@ export const site: SiteData = {
             {
               href:
                 'https://spectrogram.website/#https://soundcloud.com/klippee/morning-walk-wip',
-              img: 'https://i.imgur.com/lZgvaqjm.png',
+              img: 'https://i.imgur.com/lZgvaqjl.png',
             },
           ],
         },
@@ -60,7 +60,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://wikitree.website/',
-              img: 'https://i.imgur.com/l4fXdRxm.png',
+              img: 'https://i.imgur.com/l4fXdRxl.png',
             },
           ],
         },
@@ -74,7 +74,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/dimensions',
-              img: 'https://i.imgur.com/BQs73xNm.png',
+              img: 'https://i.imgur.com/BQs73xNl.png',
             },
           ],
         },
@@ -83,7 +83,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/force-base/#pixi-map-hover',
-              img: 'https://i.imgur.com/wSV8HUGm.png',
+              img: 'https://i.imgur.com/wSV8HUGl.png',
             },
           ],
         },
@@ -93,7 +93,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/workers/force-layout/2nd--drag/dragging.html',
-              img: 'https://i.imgur.com/CEsYk4lm.png',
+              img: 'https://i.imgur.com/CEsYk4ll.png',
             },
           ],
         },
@@ -103,7 +103,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/vanilla/gravity/interaction/test1.html',
-              img: 'https://i.imgur.com/oaBiH8bm.png',
+              img: 'https://i.imgur.com/oaBiH8bl.png',
             },
           ],
         },
@@ -113,7 +113,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/drawtool/euclid/zero.html',
-              img: 'https://i.imgur.com/0pvDJ7qm.png',
+              img: 'https://i.imgur.com/0pvDJ7ql.png',
             },
           ],
         },
@@ -123,7 +123,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/vanilla/parallax/2.html',
-              img: 'https://i.imgur.com/raVJ7TBm.png',
+              img: 'https://i.imgur.com/raVJ7TBl.png',
             },
           ],
         },
@@ -132,7 +132,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'http://alexburner.com/',
-              img: 'https://i.imgur.com/5VqVBGnm.png',
+              img: 'https://i.imgur.com/5VqVBGnl.png',
             },
           ],
         },
@@ -143,13 +143,13 @@ export const site: SiteData = {
               title: 'linear',
               href:
                 'http://patterns.website/experiments/vanilla/flocking/play/unflock_lines.html',
-              img: 'https://i.imgur.com/9u8u6qDm.png',
+              img: 'https://i.imgur.com/9u8u6qDl.png',
             },
             {
               title: 'jitter',
               href:
                 'http://patterns.website/experiments/vanilla/flocking/play/unflock_trails.html',
-              img: 'https://i.imgur.com/XBy09ABm.png',
+              img: 'https://i.imgur.com/XBy09ABl.png',
             },
           ],
         },
@@ -159,7 +159,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/connect_the_dots_graph.html',
-              img: 'https://i.imgur.com/uXQRQIRm.png',
+              img: 'https://i.imgur.com/uXQRQIRl.png',
             },
           ],
         },
@@ -169,7 +169,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/flower_of_life_giant.html',
-              img: 'https://i.imgur.com/W5EqR9pm.png',
+              img: 'https://i.imgur.com/W5EqR9pl.png',
             },
           ],
         },
@@ -180,13 +180,13 @@ export const site: SiteData = {
               title: 'colors',
               href:
                 'http://patterns.website/experiments/paperjs/originals/treble.html',
-              img: 'https://i.imgur.com/zx8vQITm.png',
+              img: 'https://i.imgur.com/zx8vQITl.png',
             },
             {
               title: 'outlines',
               href:
                 'http://patterns.website/experiments/paperjs/originals/treble_outlines.html',
-              img: 'https://i.imgur.com/YWeQw9Ym.png',
+              img: 'https://i.imgur.com/YWeQw9Yl.png',
             },
           ],
         },
@@ -197,13 +197,13 @@ export const site: SiteData = {
               title: 'trichrome',
               href:
                 'http://patterns.website/experiments/paperjs/originals/triangles_colors.html',
-              img: 'https://i.imgur.com/3Q0tNqkm.png',
+              img: 'https://i.imgur.com/3Q0tNqkl.png',
             },
             {
               title: 'monochrome',
               href:
                 'http://patterns.website/experiments/paperjs/originals/triangles.html',
-              img: 'https://i.imgur.com/jDxMHmvm.png',
+              img: 'https://i.imgur.com/jDxMHmvl.png',
             },
           ],
         },
@@ -213,12 +213,12 @@ export const site: SiteData = {
             {
               title: 'monochrome',
               href: 'http://patterns.website/experiments/d3js/moire/mono.html',
-              img: 'https://i.imgur.com/h5aTfgvm.png',
+              img: 'https://i.imgur.com/h5aTfgvl.png',
             },
             {
               title: 'trichrome',
               href: 'http://patterns.website/experiments/d3js/moire/chrom.html',
-              img: 'https://i.imgur.com/sjc9vppm.png',
+              img: 'https://i.imgur.com/sjc9vppl.png',
             },
           ],
         },
@@ -234,13 +234,13 @@ export const site: SiteData = {
               title: 'lines',
               href:
                 'http://patterns.website/experiments/p5js/shiffman/flow-field/lines.html',
-              img: 'https://i.imgur.com/EAG99VQm.png',
+              img: 'https://i.imgur.com/EAG99VQl.png',
             },
             {
               title: 'hues',
               href:
                 'http://patterns.website/experiments/p5js/shiffman/flow-field/hues.html',
-              img: 'https://i.imgur.com/Wj2tDpom.png',
+              img: 'https://i.imgur.com/Wj2tDpol.png',
             },
           ],
         },
@@ -251,13 +251,13 @@ export const site: SiteData = {
               title: 'terrain',
               href:
                 'http://patterns.website/experiments/paperjs/other/terrain.html',
-              img: 'https://i.imgur.com/CDKgzt5m.png',
+              img: 'https://i.imgur.com/CDKgzt5l.png',
             },
             {
               title: 'whoops',
               href:
                 'http://patterns.website/experiments/paperjs/other/terrain--hmmm.html',
-              img: 'https://i.imgur.com/Um1Duxzm.png',
+              img: 'https://i.imgur.com/Um1Duxzl.png',
             },
           ],
         },
@@ -268,25 +268,25 @@ export const site: SiteData = {
               title: '2d bound',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-2d-bound.html#24',
-              img: 'https://i.imgur.com/DhGNMNum.png',
+              img: 'https://i.imgur.com/DhGNMNul.png',
             },
             {
               title: '2d wild',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-2d-wild.html#24',
-              img: 'https://i.imgur.com/InRERwhm.png',
+              img: 'https://i.imgur.com/InRERwhl.png',
             },
             {
               title: '3d bound',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-3d-bound.html#24',
-              img: 'https://i.imgur.com/qbejFQxm.png',
+              img: 'https://i.imgur.com/qbejFQxl.png',
             },
             {
               title: '3d wild',
               href:
                 'http://patterns.website/experiments/workers/diffusion/2nd--worker-pool/diffuse-3d-wild.html#24',
-              img: 'https://i.imgur.com/F4bAXBwm.png',
+              img: 'https://i.imgur.com/F4bAXBwl.png',
             },
           ],
         },
@@ -296,7 +296,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/workers/diffusion/3rd--n-table/draft-2/normal.html#7',
-              img: 'https://i.imgur.com/LAI6Ingm.png',
+              img: 'https://i.imgur.com/LAI6Ingl.png',
             },
           ],
         },
@@ -306,7 +306,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/workers/diffusion/3rd--n-table/groups/test5.html',
-              img: 'https://i.imgur.com/jRY5PZQm.png',
+              img: 'https://i.imgur.com/jRY5PZQl.png',
             },
           ],
         },
@@ -315,7 +315,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'http://patterns.website/experiments/protovis/trails.html',
-              img: 'https://i.imgur.com/KxlpfbZm.png',
+              img: 'https://i.imgur.com/KxlpfbZl.png',
             },
           ],
         },
@@ -325,7 +325,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/vanilla/flock-n/2d.html',
-              img: 'https://i.imgur.com/MA0CKsUm.png',
+              img: 'https://i.imgur.com/MA0CKsUl.png',
             },
           ],
         },
@@ -335,7 +335,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/numbers.html',
-              img: 'https://i.imgur.com/EwdkU0Mm.png',
+              img: 'https://i.imgur.com/EwdkU0Ml.png',
             },
           ],
         },
@@ -345,7 +345,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/twist.html',
-              img: 'https://i.imgur.com/Dw6nBpAm.png',
+              img: 'https://i.imgur.com/Dw6nBpAl.png',
             },
           ],
         },
@@ -355,7 +355,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/threejs/spheres+cam.html',
-              img: 'https://i.imgur.com/tnrTVcBm.png',
+              img: 'https://i.imgur.com/tnrTVcBl.png',
             },
           ],
         },
@@ -371,13 +371,13 @@ export const site: SiteData = {
               title: 'monochrome',
               href:
                 'http://patterns.website/experiments/p5js/n-gons/test2.html',
-              img: 'https://i.imgur.com/t1CVrhAm.png',
+              img: 'https://i.imgur.com/t1CVrhAl.png',
             },
             {
               title: 'rainbow',
               href:
                 'http://patterns.website/experiments/p5js/n-gons/test3.html',
-              img: 'https://i.imgur.com/nm2NgEim.png',
+              img: 'https://i.imgur.com/nm2NgEil.png',
             },
           ],
         },
@@ -388,31 +388,31 @@ export const site: SiteData = {
               title: 'tetra',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/04-tetra.html',
-              img: 'https://i.imgur.com/Z7Pt4cFm.png',
+              img: 'https://i.imgur.com/Z7Pt4cFl.png',
             },
             {
               title: 'octa',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/06-octa.html',
-              img: 'https://i.imgur.com/nW3XUpim.png',
+              img: 'https://i.imgur.com/nW3XUpil.png',
             },
             {
               title: 'hexa',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/08-hexa.html',
-              img: 'https://i.imgur.com/g6XPs6dm.png',
+              img: 'https://i.imgur.com/g6XPs6dl.png',
             },
             {
               title: 'icosa',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/12-icosa.html',
-              img: 'https://i.imgur.com/zumxhB1m.png',
+              img: 'https://i.imgur.com/zumxhB1l.png',
             },
             {
               title: 'dodeca',
               href:
                 'http://patterns.website/experiments/threejs/polyhedra/plato-0/bylength/duals/20-dodeca.html',
-              img: 'https://i.imgur.com/tqbCrEfm.png',
+              img: 'https://i.imgur.com/tqbCrEfl.png',
             },
           ],
         },
@@ -423,13 +423,13 @@ export const site: SiteData = {
               title: 'radius',
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon-numbers(sameradius).html',
-              img: 'https://i.imgur.com/vfyI476m.png',
+              img: 'https://i.imgur.com/vfyI476l.png',
             },
             {
               title: 'proximity',
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon-numbers.html',
-              img: 'https://i.imgur.com/jk3OQ0wm.png',
+              img: 'https://i.imgur.com/jk3OQ0wl.png',
             },
           ],
         },
@@ -439,7 +439,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/other/polygon_overlap.html',
-              img: 'https://i.imgur.com/x5vKlKXm.png',
+              img: 'https://i.imgur.com/x5vKlKXl.png',
             },
           ],
         },
@@ -450,13 +450,13 @@ export const site: SiteData = {
               title: 'monochrome',
               href:
                 'http://patterns.website/experiments/paperjs/other/hopf_more.html',
-              img: 'https://i.imgur.com/Rfz9TDOm.png',
+              img: 'https://i.imgur.com/Rfz9TDOl.png',
             },
             {
               title: 'rainbow',
               href:
                 'http://patterns.website/experiments/paperjs/other/hopf_more+color.html',
-              img: 'https://i.imgur.com/AMVAyJhm.png',
+              img: 'https://i.imgur.com/AMVAyJhl.png',
             },
           ],
         },
@@ -466,7 +466,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
-              img: 'https://i.imgur.com/6L0gcN1m.png',
+              img: 'https://i.imgur.com/6L0gcN1l.png',
             },
           ],
         },
@@ -476,7 +476,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/other/holonstar-6.html',
-              img: 'https://i.imgur.com/0uxwVXqm.png',
+              img: 'https://i.imgur.com/0uxwVXql.png',
             },
           ],
         },
@@ -492,13 +492,13 @@ export const site: SiteData = {
               title: 'pure',
               href:
                 'http://patterns.website/experiments/paperjs/working2/flower_x2.html',
-              img: 'https://i.imgur.com/OovBNZFm.png',
+              img: 'https://i.imgur.com/OovBNZFl.png',
             },
             {
               title: 'ratio',
               href:
                 'http://patterns.website/experiments/paperjs/working2/flower_x2_rt.html',
-              img: 'https://i.imgur.com/kk2I1NHm.png',
+              img: 'https://i.imgur.com/kk2I1NHl.png',
             },
           ],
         },
@@ -513,12 +513,12 @@ export const site: SiteData = {
             {
               title: 'random',
               href: 'http://originalburn.com/quotes/newrandom',
-              img: 'https://i.imgur.com/auw5S6Zm.png',
+              img: 'https://i.imgur.com/auw5S6Zl.png',
             },
             {
               title: 'all',
               href: 'http://originalburn.com/quotes/all',
-              img: 'https://i.imgur.com/OxDwKp3m.png',
+              img: 'https://i.imgur.com/OxDwKp3l.png',
             },
           ],
         },
@@ -527,7 +527,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'http://originalburn.com/bounds/random',
-              img: 'https://i.imgur.com/XuSI23qm.png',
+              img: 'https://i.imgur.com/XuSI23ql.png',
             },
           ],
         },

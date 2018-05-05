@@ -5,8 +5,8 @@
 }
 
 :root {
-  --item-width: 280px;
-  --item-height: 180px;
+  --item-width: 320px;
+  --item-height: 200px;
   --item-margin: 14px;
   --item-margin-x: var(--item-margin);
   --item-margin-y: var(--item-margin);
