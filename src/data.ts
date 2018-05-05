@@ -169,7 +169,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/flower_of_life_giant.html',
-              img: 'https://i.imgur.com/SQaf8qem.png',
+              img: 'https://i.imgur.com/W5EqR9pm.png',
             },
           ],
         },
