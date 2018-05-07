@@ -60,7 +60,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://wikitree.website/',
-              img: 'https://i.imgur.com/l4fXdRxl.png',
+              img: 'https://i.imgur.com/dxIq6uQl.png',
             },
           ],
         },
@@ -169,7 +169,7 @@ export const site: SiteData = {
             {
               href:
                 'http://patterns.website/experiments/paperjs/originals/flower_of_life_giant.html',
-              img: 'https://i.imgur.com/W5EqR9pl.png',
+              img: 'https://i.imgur.com/SQaf8qel.png',
             },
           ],
         },
