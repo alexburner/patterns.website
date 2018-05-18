@@ -88,7 +88,7 @@ export const site: SiteData = {
             },
             {
               title: 'plain',
-              href: 'https://alexburner.github.io/force-base/#pixi-map-colors',
+              href: 'https://alexburner.github.io/force-base/#pixi-map',
               img: 'https://i.imgur.com/r9G9yu3l.png',
             },
           ],
