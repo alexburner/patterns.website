@@ -79,11 +79,17 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'force hover',
+          title: 'force colors',
           thumbs: [
             {
+              title: 'hover',
               href: 'https://alexburner.github.io/force-base/#pixi-map-hover',
               img: 'https://i.imgur.com/wSV8HUGl.png',
+            },
+            {
+              title: 'plain',
+              href: 'https://alexburner.github.io/force-base/#pixi-map-colors',
+              img: 'https://i.imgur.com/r9G9yu3l.png',
             },
           ],
         },
