@@ -34,6 +34,18 @@ body {
   padding-right: var(--item-margin-x);
 }
 
+.app h1 {
+  margin-right: 5%;
+}
+
+.app h1 .subtitle {
+  display: block;
+  float: right;
+  font-size: 0.5em;
+  line-height: 2.5em;
+  opacity: 0.5;
+}
+
 .section {
   margin: 5% 0;
   padding: 0 var(--nest-padding);
