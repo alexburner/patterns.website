@@ -234,6 +234,15 @@ export const site: SiteData = {
       title: 'experiments (static) [random] ',
       items: [
         {
+          title: 'dimension trails',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/dimension-trails',
+              img: 'https://i.imgur.com/hk5H6sWl.png',
+            },
+          ],
+        },
+        {
           title: 'flow field',
           thumbs: [
             {
