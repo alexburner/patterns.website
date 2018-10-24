@@ -238,7 +238,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/dimension-trails',
-              img: 'https://i.imgur.com/7DdSXaNl.png',
+              img: 'https://i.imgur.com/vwZKzjTl.png',
             },
           ],
         },
