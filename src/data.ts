@@ -50,7 +50,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href:
-                'https://spectrogram.website/#https://soundcloud.com/klippee/morning-walk-wip',
+                'https://spectrogram.website/#https://soundcloud.com/pinegrove-official/angelina',
               img: 'https://i.imgur.com/lZgvaqjl.png',
             },
           ],
