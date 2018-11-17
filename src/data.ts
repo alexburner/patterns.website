@@ -479,9 +479,16 @@ export const site: SiteData = {
           title: 'genesis',
           thumbs: [
             {
+              title: 'northern rotation',
               href:
                 'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
-              img: 'https://i.imgur.com/6L0gcN1l.png',
+              img: 'https://i.imgur.com/N0w1wuzl.png',
+            },
+            {
+              title: 'natural rotation',
+              href:
+                'http://patterns.website/experiments/paperjs/genesis/summary-x/series.html',
+              img: 'https://i.imgur.com/leXh84Bl.png',
             },
           ],
         },
