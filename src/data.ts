@@ -234,11 +234,11 @@ export const site: SiteData = {
       title: 'experiments (static) [random] ',
       items: [
         {
-          title: 'dimension trails',
+          title: 'orbit trails',
           thumbs: [
             {
               href: 'https://alexburner.github.io/dimension-trails',
-              img: 'https://i.imgur.com/TNiCWmRl.png',
+              img: 'https://i.imgur.com/d2uR59il.png',
             },
           ],
         },
@@ -550,6 +550,15 @@ export const site: SiteData = {
             {
               href: 'http://originalburn.com/bounds/random',
               img: 'https://i.imgur.com/XuSI23ql.png',
+            },
+          ],
+        },
+        {
+          title: 'complexities',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/core-complexities',
+              img: 'https://i.imgur.com/TNiCWmRl.png',
             },
           ],
         },
