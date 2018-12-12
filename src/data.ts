@@ -50,7 +50,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href:
-                'https://spectrogram.website/#https://soundcloud.com/closet-shaman/stillhere',
+                'https://spectrogram.website/#https://soundcloud.com/emel-mathlouthi/houdouon-calm',
               img: 'https://i.imgur.com/lZgvaqjl.png',
             },
           ],
