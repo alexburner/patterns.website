@@ -50,7 +50,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href:
-                'https://spectrogram.website/#https://soundcloud.com/pinegrove-official/angelina',
+                'https://spectrogram.website/#https://soundcloud.com/closet-shaman/stillhere',
               img: 'https://i.imgur.com/lZgvaqjl.png',
             },
           ],
