@@ -558,7 +558,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/core-complexities',
-              img: 'https://i.imgur.com/TNiCWmRl.png',
+              img: 'https://i.imgur.com/nSBHlUxl.png',
             },
           ],
         },
