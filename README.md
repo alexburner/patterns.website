@@ -31,3 +31,24 @@ Remove npm dependencies and build caches
 ```cmd
 npm run clean
 ```
+
+## updating `experiments` submodule
+
+On repo clone init:
+
+```sh
+git submodule init
+```
+
+On submodule changes:
+
+```sh
+cd experiments  # enter submodule repo
+git checkout master  # ??
+git pull  # get the latest
+cd ../  # back to parent repo
+git status  # "experiments (new commits)"
+git add .
+git commit -m "Update experiments submodule"
+```
+
