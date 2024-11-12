@@ -22,11 +22,20 @@ export interface ThumbData {
 
 export const site: SiteData = {
   title: 'patterns',
-  subtitle: '2012—2018',
+  subtitle: '2012—2024',
   sections: [
     {
       title: 'sites',
       items: [
+        {
+          title: 'enneagram',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/enneagram-explorer/',
+              img: 'https://i.imgur.com/IIE3Q8Ll.png',
+            },
+          ],
+        },
         {
           title: 'swatches',
           thumbs: [
@@ -231,8 +240,38 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'experiments (static) [random] ',
+      title: 'experiments (static) [stochastic] ',
       items: [
+        {
+          title: 'trails surface',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/0-4d/#trails-surface?behavior=orbiting&particles=9',
+              img: 'https://i.imgur.com/QX4cFUjl.png',
+            },
+            {
+              href: 'https://alexburner.github.io/0-4d/#trails-surface?behavior=wandering&particles=9',
+              img: 'https://i.imgur.com/EnqJwk4l.png',
+            },
+            {
+              href: 'https://alexburner.github.io/0-4d/#trails-surface?behavior=rays&particles=9',
+              img: 'https://i.imgur.com/3RMkZoal.png',
+            },
+          ],
+        },
+        {
+          title: 'trails combined',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/0-4d/#trails-combined?behavior=orbiting&particles=9',
+              img: 'https://i.imgur.com/fqcWorKl.png',
+            },
+            {
+              href: 'https://alexburner.github.io/0-4d/#trails-combined?wandering=orbiting&particles=9',
+              img: 'https://i.imgur.com/Qh7KBOGl.png',
+            },
+          ],
+        },
         {
           title: 'orbit trails',
           thumbs: [
@@ -377,7 +416,7 @@ export const site: SiteData = {
       ],
     },
     {
-      title: 'experiments (static) [determined]',
+      title: 'experiments (static) [deterministic]',
       items: [
         {
           title: 'polygon stream',
@@ -559,6 +598,15 @@ export const site: SiteData = {
             {
               href: 'https://alexburner.github.io/core-complexities',
               img: 'https://i.imgur.com/nSBHlUxl.png',
+            },
+          ],
+        },
+        {
+          title: 'cosmology',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/cosmology-complexities',
+              img: 'https://i.imgur.com/hPtVdK4l.png',
             },
           ],
         },

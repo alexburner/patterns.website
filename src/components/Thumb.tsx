@@ -13,7 +13,6 @@ const Thumb = ({ title, thumb }: Props): JSX.Element => (
     style={{ backgroundImage: `url("${thumb.img}")` }}
     title={thumb.title || title}
     href={thumb.href}
-    target="_blank"
   />
 )
 
