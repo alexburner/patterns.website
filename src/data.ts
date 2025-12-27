@@ -22,7 +22,7 @@ export interface ThumbData {
 
 export const site: SiteData = {
   title: 'patterns',
-  subtitle: '2012—2024',
+  subtitle: '2012—2025',
   sections: [
     {
       title: 'sites',
@@ -543,28 +543,6 @@ export const site: SiteData = {
         },
       ],
     },
-    /* {
-      title: 'printables',
-      items: [
-        {
-          title: 'flower double',
-          thumbs: [
-            {
-              title: 'pure',
-              href:
-                'http://patterns.website/experiments/paperjs/working2/flower_x2.html',
-              img: 'https://i.imgur.com/OovBNZFl.png',
-            },
-            {
-              title: 'ratio',
-              href:
-                'http://patterns.website/experiments/paperjs/working2/flower_x2_rt.html',
-              img: 'https://i.imgur.com/kk2I1NHl.png',
-            },
-          ],
-        },
-      ],
-    }, */
     {
       title: 'words',
       items: [
@@ -605,12 +583,36 @@ export const site: SiteData = {
           title: 'human cosmology',
           thumbs: [
             {
+              title: 'nesting',
               href: 'https://alexburner.github.io/cosmology-complexity',
               img: 'https://i.imgur.com/K2qsay8l.png',
             },
             {
+              title: 'images',
               href: 'https://alexburner.github.io/human-cosmology',
               img: 'https://i.imgur.com/hPtVdK4l.png',
+            },
+          ],
+        },
+      ],
+    },
+    {
+      title: 'printables',
+      items: [
+        {
+          title: 'polygons',
+          thumbs: [
+            {
+              title: 'n 1–10',
+              href:
+                'https://patterns.website/experiments/paperjs/print/polygons/pdf/sequence(2-10).pdf',
+              img: 'https://i.imgur.com/CUAqmkdl.png',
+            },
+            {
+              title: 'n 57',
+              href:
+                'https://patterns.website/experiments/paperjs/print/polygons/pdf/n(57).pdf',
+              img: 'https://i.imgur.com/2LLPB2Pl.png',
             },
           ],
         },
