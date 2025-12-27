@@ -593,7 +593,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'complexities',
+          title: 'fundamental complexities',
           thumbs: [
             {
               href: 'https://alexburner.github.io/core-complexities',
@@ -602,10 +602,14 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'cosmology',
+          title: 'human cosmology',
           thumbs: [
             {
-              href: 'https://alexburner.github.io/cosmology-complexities',
+              href: 'https://alexburner.github.io/cosmology-complexity',
+              img: 'https://i.imgur.com/K2qsay8l.png',
+            },
+            {
+              href: 'https://alexburner.github.io/human-cosmology',
               img: 'https://i.imgur.com/hPtVdK4l.png',
             },
           ],
