@@ -55,7 +55,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'spectrogram',
+          title: 'spectrogram [broked]',
           thumbs: [
             {
               href:
@@ -419,6 +419,16 @@ export const site: SiteData = {
       title: 'experiments (static) [deterministic]',
       items: [
         {
+          title: 'currents',
+          thumbs: [
+            {
+              href:
+                'https://patterns.website/experiments/vanilla/audio/currents.html',
+              img: 'https://i.imgur.com/lZgvaqjl.png',
+            },
+          ],
+        },
+        {
           title: 'polygon stream',
           thumbs: [
             {
@@ -515,19 +525,12 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'genesis',
+          title: 'genesis pattern',
           thumbs: [
             {
-              title: 'northern rotation',
               href:
                 'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
               img: 'https://i.imgur.com/N0w1wuzl.png',
-            },
-            {
-              title: 'natural rotation',
-              href:
-                'http://patterns.website/experiments/paperjs/genesis/summary-x/series.html',
-              img: 'https://i.imgur.com/leXh84Bl.png',
             },
           ],
         },
@@ -562,7 +565,7 @@ export const site: SiteData = {
           ],
         },
         {
-          title: 'cycles',
+          title: 'ouroboros',
           thumbs: [
             {
               href: 'http://originalburn.com/bounds/random',
@@ -583,24 +586,27 @@ export const site: SiteData = {
           title: 'human cosmology',
           thumbs: [
             {
-              title: 'nesting',
-              href: 'https://alexburner.github.io/cosmology-complexity',
-              img: 'https://i.imgur.com/K2qsay8l.png',
-            },
-            {
-              title: 'images',
               href: 'https://alexburner.github.io/human-cosmology',
               img: 'https://i.imgur.com/hPtVdK4l.png',
+            },
+          ],
+        },
+        {
+          title: 'cosmology + complexity',
+          thumbs: [
+            {
+              href: 'https://alexburner.github.io/cosmology-complexity',
+              img: 'https://i.imgur.com/K2qsay8l.png',
             },
           ],
         },
       ],
     },
     {
-      title: 'printables',
+      title: 'print pdf',
       items: [
         {
-          title: 'polygons',
+          title: 'letter — polygons',
           thumbs: [
             {
               title: 'n 1–10',
