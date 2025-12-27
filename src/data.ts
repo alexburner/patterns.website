@@ -22,7 +22,7 @@ export interface ThumbData {
 
 export const site: SiteData = {
   title: 'patterns',
-  subtitle: '2012—2025',
+  subtitle: '2012—2024',
   sections: [
     {
       title: 'sites',
