@@ -22,7 +22,7 @@ export interface ThumbData {
 
 export const site: SiteData = {
   title: 'patterns',
-  subtitle: '2012—2024',
+  subtitle: '2012—2025',
   sections: [
     {
       title: 'sites',
@@ -419,7 +419,7 @@ export const site: SiteData = {
       title: 'experiments (static) [deterministic]',
       items: [
         {
-          title: 'currents',
+          title: 'spectrogram (currents)',
           thumbs: [
             {
               href:
@@ -529,7 +529,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href:
-                'http://patterns.website/experiments/paperjs/genesis/summary/series.html',
+                'http://patterns.website/experiments/paperjs/genesis/summary/series-2.html',
               img: 'https://i.imgur.com/N0w1wuzl.png',
             },
           ],
@@ -596,7 +596,7 @@ export const site: SiteData = {
           thumbs: [
             {
               href: 'https://alexburner.github.io/cosmology-complexity',
-              img: 'https://i.imgur.com/K2qsay8l.png',
+              img: 'https://i.imgur.com/FZeXB5el.png',
             },
           ],
         },
